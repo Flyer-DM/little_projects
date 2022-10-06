@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<cwd_glossary name="bookshop datebase" description="generated from logical model of design bookshop datebase" id="DF9014F0-7E92-1910-8B5F-4B4E2023948A" incomplete_modifiers="true" >
+
+   <glossaryWord name="Address" plural="ADDRESSES" abbreviation="ADD" alt_abbreviation="" id="5A2D2F1E-C56C-70BB-FB56-B22721D4DD35" import_id="" description="" />
+   <glossaryWord name="Author" plural="" abbreviation="" alt_abbreviation="" id="CE2FD1E9-70BB-FC1F-0BC0-9BA94526EF28" import_id="" description="" />
+   <glossaryWord name="Delivery_date" plural="" abbreviation="" alt_abbreviation="" id="3599AAE0-FF24-2043-3001-13B9A1B2CD75" import_id="" description="" />
+   <glossaryWord name="ERN" plural="" abbreviation="" alt_abbreviation="" id="53453997-BADB-EC0B-25CA-65A51348CD6A" import_id="" description="" />
+   <glossaryWord name="Education" plural="" abbreviation="EDU" alt_abbreviation="" id="623FCF6A-62B0-D67B-D0B7-7E7468D86702" import_id="" description="" />
+   <glossaryWord name="Email" plural="" abbreviation="" alt_abbreviation="" id="C5F22675-6B88-457C-88E5-E1A7E3DE0FBF" import_id="" description="" />
+   <glossaryWord name="Fullname" plural="" abbreviation="" alt_abbreviation="" id="5D5F80F5-C7C3-6BDA-7F16-620923E0F69D" import_id="" description="" />
+   <glossaryWord name="Host_name" plural="" abbreviation="" alt_abbreviation="" id="CB17E85B-EB05-A92F-9D43-AAAB5376AA00" import_id="" description="" />
+   <glossaryWord name="ID" plural="" abbreviation="" alt_abbreviation="" id="FB18A9D9-77CE-4DAB-C6AE-0E6A73578C43" import_id="" description="" />
+   <glossaryWord name="ITN" plural="" abbreviation="" alt_abbreviation="" id="8FB83160-0D01-8CCD-AA5F-97320DD69D7C" import_id="" description="" />
+   <glossaryWord name="J_address" plural="" abbreviation="" alt_abbreviation="" id="955878AA-C9A9-D856-6B93-F05F5F90E3F4" import_id="" description="" />
+   <glossaryWord name="Manufacture_date" plural="" abbreviation="" alt_abbreviation="" id="CF70A465-2BD5-E182-63A1-AEDDD9457330" import_id="" description="" />
+   <glossaryWord name="Name" plural="" abbreviation="" alt_abbreviation="" id="74F43DDB-466B-BB80-32EC-D2C25BBDCE21" import_id="" description="" />
+   <glossaryWord name="PA" plural="" abbreviation="" alt_abbreviation="" id="D58E83AC-EFA2-1255-F746-03B6DFF54C1E" import_id="" description="" />
+   <glossaryWord name="PK" plural="" abbreviation="" alt_abbreviation="" id="AE3B8D84-A65E-ECCE-32AA-E89C716ED2E1" import_id="" description="" />
+   <glossaryWord name="Price" plural="" abbreviation="PCE" alt_abbreviation="" id="49B7A40E-B2E8-3AC4-EEDC-7A5A1F3E2FB1" import_id="" description="" />
+   <glossaryWord name="Publish_year" plural="" abbreviation="" alt_abbreviation="" id="55B9CF42-F8F8-FEAC-ABDC-CD9ABF6D0A4F" import_id="" description="" />
+   <glossaryWord name="R_address" plural="" abbreviation="" alt_abbreviation="" id="99953589-C08E-8ABC-F014-EF4DB91442F1" import_id="" description="" />
+   <glossaryWord name="Region" plural="REGIONS" abbreviation="REG" alt_abbreviation="" id="A20F9237-13C9-14CA-1280-7FF268C54D47" import_id="" description="" />
+   <glossaryWord name="SW_City" plural="SW_Cities" abbreviation="" alt_abbreviation="" id="116B48AC-7AB7-98B6-2776-C6B0EA3B481B" import_id="" description="" />
+   <glossaryWord name="SW_Client" plural="SW_Clients" abbreviation="" alt_abbreviation="" id="5313146F-8D85-1958-AE96-9FF657D6F159" import_id="" description="" />
+   <glossaryWord name="SW_Delivery" plural="SW_Delivery" abbreviation="" alt_abbreviation="" id="1613D259-5B60-797D-D0D8-2235C82B38A2" import_id="" description="" />
+   <glossaryWord name="SW_Director" plural="SW_Directors" abbreviation="" alt_abbreviation="" id="B9B4C33A-0699-C78F-6496-94A073F7C82D" import_id="" description="" />
+   <glossaryWord name="SW_Supply" plural="SW_Supplies" abbreviation="" alt_abbreviation="" id="64003CE2-5F6A-ADB4-2089-1EB13BE091BA" import_id="" description="" />
+   <glossaryWord name="SW_Good" plural="SW_Goods" abbreviation="" alt_abbreviation="" id="18781D6A-313F-F2D0-CEF7-FD76458BD55E" import_id="" description="" />
+   <glossaryWord name="SW_Shop" plural="SW_Shops" abbreviation="" alt_abbreviation="" id="F537E38D-B471-E192-77D6-E96F478C189F" import_id="" description="" />
+   <glossaryWord name="SW_Supplier" plural="SW_Suppliers" abbreviation="" alt_abbreviation="" id="CCD0AB63-AA1D-D84C-0106-F696BFB62AC1" import_id="" description="" />
+   <glossaryWord name="SW_Worker" plural="SW_Workers" abbreviation="" alt_abbreviation="" id="FA7F907B-21C7-620B-C5F3-22633C7AA50E" import_id="" description="" />
+   <glossaryWord name="Status" plural="" abbreviation="STU" alt_abbreviation="" id="D4724E29-1D11-3DB0-5CD8-33E236B87034" import_id="" description="" />
+   <glossaryWord name="Telephone" plural="" abbreviation="TEL" alt_abbreviation="" id="8C35034A-8ED5-3B24-A3EF-869245AF36DD" import_id="" description="" />
+   <glossaryWord name="Work_time" plural="" abbreviation="" alt_abbreviation="" id="9C8DB56D-6076-9942-E54C-28BE4349323A" import_id="" description="" />
+   <glossaryWord name="Workers" plural="" abbreviation="" alt_abbreviation="" id="A929774A-CFB6-9AD8-DAA3-1A2336C6998F" import_id="" description="" />
+   <glossaryWord name="Workschedule" plural="" abbreviation="" alt_abbreviation="" id="D8D33621-882E-9D14-37CA-7D175830C409" import_id="" description="" />
+
+</cwd_glossary>
